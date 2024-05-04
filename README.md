@@ -17,7 +17,7 @@ Includes color maps based on the following albums:
 + Red: Taylor's Version (`red_tv`, `red_tv_r`)
 + Midnights (`midnights`, `midnights_r`)
 + Speak Now: Taylor's Version (`speak_now_tv`, `speak_now_tv_r`)
-+ 1989: Taylor's Version (nineteen_eighty_nine_tv, nineteen_eighty_nine_tv_r)
++ 1989: Taylor's Version (`nineteen_eighty_nine_tv`, `nineteen_eighty_nine_tv_r`)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)

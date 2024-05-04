@@ -22,6 +22,22 @@ fearless = hex_to_rgb([
     "#EFB391"
 ])
 
+speak_now = hex_to_rgb([
+    "#ffffff",
+    "#4b2671",
+    "#5e291c",
+    "#f3d8c4",
+    "#f3bf73"
+])
+
+speak_now_live = hex_to_rgb([
+    "#fce178",
+    "#969696",
+    "#871d20",
+    "#090708",
+    "#fafaf9"
+])
+
 red = [
     [40, 37, 62],
     [175, 30, 73],

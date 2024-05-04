@@ -8,6 +8,8 @@ Includes color maps based on the following albums:
 
 + Debut (`debut`, `debut_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
 + Fearless (`fearless`, `fearless_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
++ Speak Now (`speak_now`, `speak_now_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
++ Speak Now: World Tour Live (`speak_now_live`, `speak_now_live_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
 + Red (`red`, `red_r`)
 + 1989 (`nineteen_eighty_nine`, `nineteen_eighty_nine_r`)
 + Reputation (`reputation`, `reputation_r`)

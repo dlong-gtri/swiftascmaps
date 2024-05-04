@@ -39,6 +39,8 @@ from swiftascmaps.__version__ import __version__
 
 debut, debut_r = make_custom_cmap("debut", colors.debut)
 fearless, fearless_r = make_custom_cmap("fearless", colors.fearless)
+speak_now, speak_now_r = make_custom_cmap("speak_now", colors.speak_now)
+speak_now_live, speak_now_live_r = make_custom_cmap("speak_now_live", colors.speak_now_live)
 red, red_r = make_custom_cmap("red", colors.red)
 nineteen_eighty_nine, nineteen_eighty_nine_r = make_custom_cmap(
     "nineteen_eighty_nine", colors.nineteen_eighty_nine

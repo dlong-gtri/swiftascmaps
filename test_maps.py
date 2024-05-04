@@ -38,6 +38,8 @@ plot_color_gradients("Matplotlib: Taylor's Color Maps",
                      [
     "swift.debut",
     "swift.fearless",
+    "swift.speak_now",
+    "swift.speak_now_live",
     "swift.red",
     "swift.nineteen_eighty_nine",
     "swift.reputation",

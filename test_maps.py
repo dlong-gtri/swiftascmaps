@@ -24,7 +24,7 @@ def plot_color_gradients(category, cmap_list):
 
     for ax, name in zip(axs, cmap_list):
         ax.imshow(gradient, aspect='auto', cmap=mpl.colormaps[name])
-        ax.text(-0.01, 0.5, name.split(".")[-1], va='center', ha='right', fontsize=10,
+        ax.text(-0.01, 0.5, name.split(".")[-1], va='center', ha='right', fontsize=6,
                 transform=ax.transAxes)
 
     # Turn off *all* ticks & spines, not just the ones with colormaps.
@@ -49,7 +49,10 @@ plot_color_gradients("Matplotlib: Taylor's Color Maps",
     "swift.fearless_tv",
     "swift.midnights",
     "swift.speak_now_tv",
-    "swift.nineteen_eighty_nine_tv"
+    "swift.nineteen_eighty_nine_tv",
+    "swift.nineteen_eighty_nine_tv_sunrise_boulevard",
+    "swift.nineteen_eighty_nine_tv_aquamarine_green",
+    "swift.nineteen_eighty_nine_tv_rose_garden_pink"
 ]
 )
 

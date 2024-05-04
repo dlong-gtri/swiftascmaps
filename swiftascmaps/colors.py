@@ -4,6 +4,15 @@ Colors (defined as RGB values) for the Taylor Swift albums.
 
 from swiftascmaps.make_cmap import hex_to_rgb
 
+debut = hex_to_rgb([
+    "#61b6cc",
+    "#577f3f",
+    "#e3e9f3",
+    "#0a1605",
+    "#fddac7",
+    "#81a757"
+])
+
 red = [
     [40, 37, 62],
     [175, 30, 73],

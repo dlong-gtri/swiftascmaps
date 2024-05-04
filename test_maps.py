@@ -37,6 +37,7 @@ def plot_color_gradients(category, cmap_list):
 plot_color_gradients("Matplotlib: Taylor's Color Maps",
                      [
     "swift.debut",
+    "swift.fearless",
     "swift.red",
     "swift.nineteen_eighty_nine",
     "swift.reputation",

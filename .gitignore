@@ -1,0 +1,4 @@
+build
+dist
+swiftascmaps.egg-info/
+swiftascmaps/__pycache__/

@@ -149,3 +149,4 @@ nineteen_eighty_nine_tv_rose_garden_pink = hex_to_rgb(sorted(
     ["#8A9DAC", "#9E948A","#DD8253", "#B4AEAF", "#B6723C", "#7F8491"]
 ))
 
+ttpd = hex_to_rgb(sorted(["#8D8171", "#C6C0B8", "#49433B", "#FDFDFD", "#322B25","#ADA69C"]))

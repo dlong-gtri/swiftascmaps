@@ -65,3 +65,5 @@ nineteen_eighty_nine_tv, nineteen_eighty_nine_tv_r = make_custom_cmap(
 nineteen_eighty_nine_tv_sunrise_boulevard, nineteen_eighty_nine_tv_sunrise_boulevard_r = make_custom_cmap("nineteen_eighty_nine_tv_sunrise_boulevard", colors.nineteen_eighty_nine_tv_sunrise_boulevard)
 nineteen_eighty_nine_tv_aquamarine_green, nineteen_eighty_nine_tv_aquamarine_green_r = make_custom_cmap("nineteen_eighty_nine_tv_aquamarine_green", colors.nineteen_eighty_nine_tv_aquamarine_green)
 nineteen_eighty_nine_tv_rose_garden_pink, nineteen_eighty_nine_tv_rose_garden_pink_r = make_custom_cmap("nineteen_eighty_nine_tv_rose_garden_pink", colors.nineteen_eighty_nine_tv_rose_garden_pink)
+
+ttpd, ttpd_r = make_custom_cmap("ttpd", colors.ttpd)

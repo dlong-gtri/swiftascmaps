@@ -55,7 +55,8 @@ plot_color_gradients("Matplotlib: Taylor's Color Maps",
     "swift.nineteen_eighty_nine_tv",
     "swift.nineteen_eighty_nine_tv_sunrise_boulevard",
     "swift.nineteen_eighty_nine_tv_aquamarine_green",
-    "swift.nineteen_eighty_nine_tv_rose_garden_pink"
+    "swift.nineteen_eighty_nine_tv_rose_garden_pink",
+    "swift.ttpd"
 ]
 )
 

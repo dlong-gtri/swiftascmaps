@@ -24,9 +24,9 @@ Includes color maps based on the following albums:
 + Midnights - Mahogany Variant (`midnights_mahogany`, `midnights_mahogany_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
 + Speak Now: Taylor's Version (`speak_now_tv`, `speak_now_tv_r`)
 + 1989: Taylor's Version (`nineteen_eighty_nine_tv`, `nineteen_eighty_nine_tv_r`)
-+ 1989: Taylor's Version - Sunrise Boulevard Variant (`nineteen_eighty_nine_tv_sunrise_boulevard`, `nineteen_eighty_nine_tv_sunrise_boulevard_r`)
-+ 1989: Taylor's Version - Aquamarine Green Variant (`nineteen_eighty_nine_tv_aquamarine_green`, `nineteen_eighty_nine_tv_aquamarine_green_r`)
-+ 1989: Taylor's Version - Rose Garden Pink Variant (`nineteen_eighty_nine_tv_rose_garden_pink`, `nineteen_eighty_nine_tv_rose_garden_pink_r`)
++ 1989: Taylor's Version - Sunrise Boulevard Variant (`nineteen_eighty_nine_tv_sunrise_boulevard`, `nineteen_eighty_nine_tv_sunrise_boulevard_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
++ 1989: Taylor's Version - Aquamarine Green Variant (`nineteen_eighty_nine_tv_aquamarine_green`, `nineteen_eighty_nine_tv_aquamarine_green_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
++ 1989: Taylor's Version - Rose Garden Pink Variant (`nineteen_eighty_nine_tv_rose_garden_pink`, `nineteen_eighty_nine_tv_rose_garden_pink_r`) (copied from [taloRswift](https://github.com/asteves/tayloRswift))
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)

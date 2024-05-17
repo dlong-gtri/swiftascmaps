@@ -55,6 +55,9 @@ evermore_shifted, evermore_shifted_r = make_custom_cmap(
 fearless_tv, fearless_tv_r = make_custom_cmap("fearless_tv", colors.fearless_tv)
 red_tv, red_tv_r = make_custom_cmap("red_tv", colors.red_tv)
 midnights, midnights_r = make_custom_cmap("midnights", colors.midnights)
+midnights_blood_moon, midnights_blood_moon_r = make_custom_cmap("midnights_blood_moon", colors.midnights_blood_moon)
+midnights_jade_green, midnights_jade_green_r = make_custom_cmap("midnights_jade_green", colors.midnights_jade_green)
+midnights_mahogany, midnights_mahogany_r = make_custom_cmap("midnights_mahogany", colors.midnights_mahogany)
 speak_now_tv, speak_now_tv_r = make_custom_cmap("speak_now_tv", colors.speak_now_tv)
 nineteen_eighty_nine_tv, nineteen_eighty_nine_tv_r = make_custom_cmap(
     "nineteen_eighty_nine_tv", colors.nineteen_eighty_nine_tv

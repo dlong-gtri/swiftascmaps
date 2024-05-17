@@ -120,6 +120,10 @@ midnights = hex_to_rgb(
     ]
 )
 
+midnights_blood_moon = hex_to_rgb(sorted(["#651D32", "#80433F", "#BC7B55", "#AD9291", "#E9E8E4"]))
+midnights_jade_green = hex_to_rgb(sorted(["#E8E7E3", "#CE986B", "#2F3C30", "#0B0B08", "#B98645", "#8D8C7A"]))
+midnights_mahogany = hex_to_rgb(sorted(["#AE9975", "#2B181F", "#E2E1DD", "#948266", "#AD8E49"]))
+
 speak_now_tv = hex_to_rgb(
     [
         "#0E0E0E",
